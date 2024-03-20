@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MILIT CHAWLA</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=militchawla31&label=Profile%20views&color=0e75b6&style=flat" alt="militchawla31" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=militchawla31" alt="militchawla31" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/milit_3103" target="blank"><img src="https://img.shields.io/twitter/follow/milit_3103?logo=twitter&style=for-the-badge" alt="milit_3103" /></a> </p>
+
+ 
 
 - 🔭 I’m currently a **CSE student at The Northcap University, Gurugram**
 
